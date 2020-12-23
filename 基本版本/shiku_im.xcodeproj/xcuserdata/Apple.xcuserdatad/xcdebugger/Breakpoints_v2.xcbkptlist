@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C8282FC-6792-41EE-BECE-9588EFCB66BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "0F10E7D4-58A9-4882-8611-FD67719A77FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "074A6CC4-08F9-4FE5-8024-0A00BB831288"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/model/JXXMPP.m"
+            timestampString = "491455831.827856"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "670"
+            endingLineNumber = "670"
+            landmarkName = "-connect"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F78C3709-747F-4057-864E-5E2AB0FAFC44"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/videoRecorder/StreamPlayerViewController.m"
+            timestampString = "491473516.920504"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "859"
+            endingLineNumber = "859"
+            landmarkName = "-open:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0F08A3A-57FE-449C-B7EA-A38171D05B06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/network/JXServer.m"
+            timestampString = "497613106.479044"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1138"
+            endingLineNumber = "1138"
+            landmarkName = "-alertView:clickedButtonAtIndex:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B5335AB-31F7-4ADB-AC4A-D5D1A97A7E61"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/3rd/FLAnimatedImage/FLAnimatedImageView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
+            landmarkName = "-displayDidRefresh:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32BD685B-E1C6-4E5B-B86E-B71040C2EF20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/model/JXUserObject.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "488"
+            endingLineNumber = "488"
+            landmarkName = "-copyFromResume:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0DD09DA-0ED7-4863-938C-4F0C9A0AF3DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/Register&amp;Login/loginVC.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "810"
+            endingLineNumber = "810"
+            landmarkName = "-didServerResultSucces:dict:array:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

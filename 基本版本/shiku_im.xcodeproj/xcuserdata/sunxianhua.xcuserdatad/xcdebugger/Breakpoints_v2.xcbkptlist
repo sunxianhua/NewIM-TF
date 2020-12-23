@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "03EE7886-AD79-438E-8C5B-F4A679320DA6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84ADD385-E134-4833-8EC1-6E3C2C9E9331"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/controller/JXRedMoneyViewController.m"
+            timestampString = "608189232.231932"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "-didServerResultSucces:dict:array:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DC9ECAD-336E-45D5-BC09-2B9DA4D873BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shiku_im/controller/JXServerListVC.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "-isOK"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "00733958-7686-411B-ABFC-380A17782B70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
